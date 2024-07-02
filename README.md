@@ -1,2 +1,6 @@
-# Scheduling-System-of-flask-Backend-
-The Exam Scheduling System is a web application designed to simplify the process of scheduling university exams. 
+# Exam-Scheduling-Website
+A website based software for generating daily time tables for different papers of different department with conditions applied regarding exam .
+Easy Scheduling.
+Database is Mysql.
+Backend = Python.flask.
+Frontend = React.js.
