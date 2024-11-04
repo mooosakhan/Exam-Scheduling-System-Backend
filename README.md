@@ -14,7 +14,7 @@ The **Exam Scheduling System** is a powerful web application designed to simplif
 - **Flask**: A lightweight Python web framework.
 - **SQLAlchemy**: Powerful SQL toolkit and ORM.
 - **MySQL**: Reliable relational database management system.
-- **JWT**: Secure JSON Web Tokens  for authentication.
+- **JWT**: Secure JSON Web Tokens  for authentication. 
 - **Flask-RESTful**: Quickly build REST APIs.
 
 ## Installation 🛠️
